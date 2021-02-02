@@ -1,0 +1,3 @@
+2021-01-28 16:50:01.992 | INFO     | logging:callHandlers:1649 - Started server process [5988]
+2021-01-28 16:50:01.992 | INFO     | logging:callHandlers:1649 - Waiting for application startup.
+2021-01-28 16:50:01.992 | INFO     | rro_agent.constructor.cryptography:on_startup:16 - Setup cryptography
